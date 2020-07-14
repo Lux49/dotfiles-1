@@ -101,7 +101,7 @@
 		"draw_normal",
 		"draw_active"
 	],
-	"indent_to_bracket": true,
+	"indent_to_bracket": false,
 	"index_exclude_patterns":
 	[
 		"*.log"
@@ -118,6 +118,7 @@
 	"theme": "Nil.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": false,
+	"trim_only_modified_white_space": false,
 	"trim_trailing_white_space_on_save": true,
 	"word_separators": " ./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
 	// Default without `markup.raw`

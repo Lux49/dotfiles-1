@@ -1,7 +1,8 @@
 # set this as the default handler in ~/.config/mimeapps.list
 [Desktop Entry]
 Exec=openurl %U
-MimeType=x-scheme-handler/http;x-scheme-handler/https;
 Name=openurl
 NoDisplay=true
 Type=Application
+#MimeType=x-scheme-handler/http;x-scheme-handler/https;
+MimeType=x-scheme-handler/unknown;x-scheme-handler/about;text/html;x-scheme-handler/http;x-scheme-handler/https;
